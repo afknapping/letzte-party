@@ -20,8 +20,8 @@ Karaoke?
 </textarea>
 
 Budget ca.
-<input type="number">
-</input>
+<input type="number" />
+
 
 ## Nahrung und Getränke
 
@@ -35,8 +35,7 @@ Gibt's ne richtige Bar? Oder warmes Hansa aus kleinen Dosen?
 </textarea>
 
 Budget ca.
-<input type="number">
-</input>
+<input type="number" />
 
 ## Location
 
@@ -46,8 +45,7 @@ Die Hütte am Waldrand von früher? Stammkneipe? Schiff?
 </textarea>
 
 Budget ca.
-<input type="number">
-</input>
+<input type="number" />
 
 ## Gästeliste
 
@@ -68,8 +66,7 @@ Soll jeder das Lieblingsfoto mit dir mitbringen? Einen Vierzeiler schreiben? 10 
 </textarea>
 
 Budget ca.
-<input type="number">
-</input>
+<input type="number" />
 
 ---
 
@@ -81,8 +78,7 @@ Wer bekommt zu Zugang diesem Planner und sorgt dafür, dass alles so passiert wi
 > Sprich unbedingt mit der Person, bevor du ihre Emailadresse hier einträgst
 
 Email
-<input type="email">
-</input>
+<input type="email" />
 
 ---
 
