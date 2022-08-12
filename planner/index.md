@@ -87,7 +87,7 @@ Email
 
 <style>
 * { box-sizing: border-box; }
-input { width: 4ch; }
+input { width: 10ch; }
 textarea { width: 100%;}
 </style>
 
