@@ -56,3 +56,16 @@ Soll jeder das Lieblingsfoto mit dir mitbringen? Einen Vierzeiler schreiben? 10 
 Budget ca.
 <input type="number">
 
+---
+
+## Partner in Crime
+
+Wer bekommt zu Zugang diesem Planner und sorgt dafür, dass alles so passiert wie du es dir gewünscht hast?
+
+> **Warning**
+> Sprich unbedingt mit der Person, bevor du ihre Emailadresse hier einträgst
+
+<input type="email">
+
+<button>Save</button> (Funktioniert noch nicht!)
+
