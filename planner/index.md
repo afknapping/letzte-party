@@ -4,11 +4,17 @@
 
 Budgetangaben werden dir helfen, ein paar Euro für die Party beiseite zu legen.
 
+
+> **Warning**
+> Dies ist noch kein Demo: Daten werden noch nicht gespeichert und verschwinden bei Reload
+
 ## Musik
 
 Alben, Songs, Playlist-Links...
 
 Soll jemand bestimmtes live auftreten? Oder soll es unebedungt Harfenmusik geben und dir ist egal wer?
+
+Karaoke?
 
 <textarea>
 
@@ -27,3 +33,26 @@ Gibt's ne richtige Bar? Oder warmes Hansa aus kleinen Dosen?
 
 Budget ca.
 <input type="number">
+
+## Location
+
+Die Hütte am Waldrand von früher? Stammkneipe? Schiff?
+
+<textarea>
+
+Budget ca.
+<input type="number">
+
+## Prompts für die Gäste
+
+Soll jeder das Lieblingsfoto mit dir mitbringen? Einen Vierzeiler schreiben? 10 Euro an ein Kinderhospiz spenden? 
+
+<textarea>
+
+## Weiteres
+
+<textarea>
+
+Budget ca.
+<input type="number">
+
