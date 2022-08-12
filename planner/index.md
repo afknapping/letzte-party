@@ -16,10 +16,10 @@ Soll jemand bestimmtes live auftreten? Oder soll es unebedungt Harfenmusik geben
 
 Karaoke?
 
-<textarea />
+<textarea></textarea>
 
 Budget ca.
-<input type="number">
+<input type="number"></input>
 
 ## Nahrung und Getränke
 
@@ -29,32 +29,32 @@ Soll jemand live Burger braten? Deine Schwester ihren berühmten Kartoffelsalat 
 
 Gibt's ne richtige Bar? Oder warmes Hansa aus kleinen Dosen?
 
-<textarea>
+<textarea></textarea>
 
 Budget ca.
-<input type="number">
+<input type="number"></input>
 
 ## Location
 
 Die Hütte am Waldrand von früher? Stammkneipe? Schiff?
 
-<textarea />
+<textarea></textarea>
 
 Budget ca.
-<input type="number">
+<input type="number"></input>
 
 ## Prompts für die Gäste
 
 Soll jeder das Lieblingsfoto mit dir mitbringen? Einen Vierzeiler schreiben? 10 Euro an ein Kinderhospiz spenden? 
 
-<textarea />
+<textarea></textarea>
 
 ## Weiteres
 
-<textarea />
+<textarea></textarea>
 
 Budget ca.
-<input type="number">
+<input type="number"></input>
 
 ---
 
@@ -65,7 +65,8 @@ Wer bekommt zu Zugang diesem Planner und sorgt dafür, dass alles so passiert wi
 > **Warning**
 > Sprich unbedingt mit der Person, bevor du ihre Emailadresse hier einträgst
 
-<input type="email">
+Email
+<input type="email"></input>
 
 <button>Save</button> (Funktioniert noch nicht!)
 
