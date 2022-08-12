@@ -90,3 +90,5 @@ Email
 input { width: 4ch; }
 textarea { width: 100%;}
 </style>
+
+<link rel="stylesheet" href="https://afknapping.de/css.css">
