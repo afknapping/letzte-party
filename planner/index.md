@@ -90,5 +90,7 @@ Email
 
 
 <style>
+* { box-sizing: border-box; }
 input { width: 4ch; }
+textarea { width: 100%;}
 </style>
