@@ -16,7 +16,7 @@ Soll jemand bestimmtes live auftreten? Oder soll es unebedungt Harfenmusik geben
 
 Karaoke?
 
-<textarea>
+<textarea />
 
 Budget ca.
 <input type="number">
@@ -38,7 +38,7 @@ Budget ca.
 
 Die Hütte am Waldrand von früher? Stammkneipe? Schiff?
 
-<textarea>
+<textarea />
 
 Budget ca.
 <input type="number">
@@ -47,11 +47,11 @@ Budget ca.
 
 Soll jeder das Lieblingsfoto mit dir mitbringen? Einen Vierzeiler schreiben? 10 Euro an ein Kinderhospiz spenden? 
 
-<textarea>
+<textarea />
 
 ## Weiteres
 
-<textarea>
+<textarea />
 
 Budget ca.
 <input type="number">
